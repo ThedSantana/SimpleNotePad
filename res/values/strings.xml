@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleNotePad</string>
+    <string name="app_title">Notes</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_add">New note</string>
+    <string name="title_new">New note</string>
+    <string name="title_edit">Edit note</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_delete">Delete</string>
+    
+    <string name="note_title">Title</string>
+    <string name="note_content">Content</string>
+
+</resources>
